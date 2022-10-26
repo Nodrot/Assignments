@@ -1,0 +1,117 @@
+
+#body{
+    color: bisque;
+    width: 100%;
+    height: 100vh;
+    background-color: bisque;
+    font-size: 16px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+main{
+  height: 70%;
+    background: brown;
+    margin: 30px;
+    border-radius: 10px;
+    opacity: 0.8;
+
+}
+
+h2{
+    text-align: center;
+    background-color: brown;
+    color: bisque;
+  font-family: tahoma;
+  font-size: 30px;
+  
+}
+
+input, select{
+    width: 50%;
+    border: 1px solid wheat;
+    margin: 15px 130px;
+    padding: 10px;
+    background-color: bisque;
+
+}
+
+label{
+    margin: 15px 130px;
+    font-size: 18px;
+    color: bisque;
+  font-family: tahoma;
+  
+
+}
+
+#button{
+    display: block;
+    border-radius: 10px;
+    border: none;
+    background-color: goldenrod;
+    width: 30%;
+    height: 2em;
+    margin: 1em auto;
+    font-size: 1.5rem;
+    text-align: center;
+    margin-top: -10px;
+    margin-bottom: 20px;
+}
+
+#button:hover, #btn:hover {
+    background-color: bisque;
+    color: brown;
+}
+
+a{
+    text-decoration: none;
+    color: brown;
+    cursor: pointer;
+}
+
+hr{
+    width: 70%;
+    color: burlywood;
+}
+p a{
+    color: bisque;
+    font-style: italic;
+}
+
+p{
+    font-size: 20px;
+    text-align: center;
+    padding: 5px;
+    color: bisque;
+}
+
+/*SUCCESS page design starts here*/
+
+
+#h1{
+  color: bisque;
+  text-align: center;
+  font-size: 30px;
+    margin-top: 15px;
+}
+
+#p{
+  font-style: italic;
+  color: bisque;
+  font-size: 20px;
+  margin-top: 15px;
+  padding: 10px;
+}
+
+#btn{
+    display: block;
+    border-radius: 10px;
+    border: none;
+    background-color: goldenrod;
+    width: 50%;
+    height: 4em;
+    margin: 3em auto;
+    font-size: 1.5rem;
+    text-align: center;
+  padding: 30px;
+}
