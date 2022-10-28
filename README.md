@@ -46,8 +46,8 @@ I want to work improve
 - [W3 schools] (https://www.w3schools.com/)
 - when i got stuck, their resources helped find my way
 
-###Author
+### Author
 - Twitter - [@yebowale] (https://twitter.com/yebowale?s=08)
 
-##Acknowledgements
+## Acknowledgements
 - I appreaciate the Zuri team for giving me an opportunity to be a part of their hollistic learning 
